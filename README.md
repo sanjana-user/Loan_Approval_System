@@ -58,6 +58,7 @@ It compares the model predicted values and the actual known values in a tabular 
 Confusion Matrix for our model:
 
 [ [12,29],
+
   [0, 82]  ]
   
 ## **Accuracy:**
